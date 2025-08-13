@@ -32,7 +32,7 @@
   <a href="https://github.com/alokbisnaliya" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://www.instagram.com/YOUR-INSTA-USERNAME" target="_blank">
+  <a href="https://www.instagram.com/alok790621" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
