@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 About Me
-- 💻 I’m a **MERN Stack Developer** with experience in **E-commerce projects**
+- 💻 I’m a **MERN Stack Developer**
 - 🌱 Currently learning **AI Integration with MERN**
 - ⚡ Love to solve **DSA problems** and build **real-world apps**
 - 🎯 Goal: Get into a fast-paced **startup** in Gurgaon
